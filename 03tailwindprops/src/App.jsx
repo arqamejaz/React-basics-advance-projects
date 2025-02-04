@@ -8,7 +8,7 @@ function App() {
         Practicing Props
       </h1>
       <div className="flex gap-4">
-        <Card username="Arqam" btnText="Read More" />
+        <Card username="M Arqam" btnText="Read More" />
         <Card username="Ejaz" btnText="Continue Reading" />
       </div>
     </>
